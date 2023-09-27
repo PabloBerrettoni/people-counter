@@ -1,4 +1,4 @@
-Updated people counter to work with python3. Also added the default model to the repo.
+Updated people counter to work with python3, fixed some broken functions and methods. Also added the default model to the repo.
 
 People counter
 ==============
